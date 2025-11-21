@@ -48,7 +48,7 @@ git pull
 git branch
 git checkout
 git merge
-
+```
 💡 Purpose of This Repository
 
 This repository is created to showcase:

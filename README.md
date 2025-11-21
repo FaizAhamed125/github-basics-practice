@@ -42,6 +42,7 @@ This repository is created to showcase:
 
 ## 🧠 Git Commands I Practiced
 
+```bash
 git init
 git add .
 git commit -m "message"
@@ -52,11 +53,8 @@ git pull
 git branch
 git checkout
 git merge
+```
 
-yaml
-Copy code
-
----
 
 ## ✨ Author
 
